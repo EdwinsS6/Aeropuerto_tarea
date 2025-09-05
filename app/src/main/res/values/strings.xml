@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AeropuertoRegistro</string>
+    <string name="tiempo">Tiempo: %1$d ms</string>
+    <string name="tiempo_cero">Tiempo: 0 ms</string>
+    <string name="iniciar_registro">Iniciar registro</string>
+    <string name="simular_biometria">Simular lectura biométrica</string>
+    <string name="completa_campos">Completa todos los campos</string>
+    <string name="edad_invalida">Edad inválida</string>
+    <string name="cronometro_omitido">Cronómetro omitido por nacionalidad</string>
+    <string name="cronometro_iniciado">Cronómetro iniciado</string>
+    <string name="primero_inicia_registro">Primero inicia el registro</string>
+    <string name="biometria_simulada">Lectura biométrica simulada</string>
+</resources>
